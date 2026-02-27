@@ -92,3 +92,9 @@ Ask first.
   pattern matching) unless explicitly asked.
 - Do not modify existing tests to make them pass — fix the 
   implementation instead.
+
+## Known Issues / Tech Debt
+- @MockBean is deprecated in Spring Boot 3.4. Use 
+  @MockitoBean (org.springframework.test.context.bean.override
+  .mockito.MockitoBean) in all new tests going forward. 
+  Existing tests to be migrated when next touched.

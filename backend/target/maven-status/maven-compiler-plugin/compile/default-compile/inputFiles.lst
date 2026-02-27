@@ -1,7 +1,0 @@
-/Users/andrewmoyer/github/census-explorer/backend/src/main/java/com/censusexplorer/CensusExplorerApplication.java
-/Users/andrewmoyer/github/census-explorer/backend/src/main/java/com/censusexplorer/client/CensusApiClient.java
-/Users/andrewmoyer/github/census-explorer/backend/src/main/java/com/censusexplorer/client/CensusApiClientImpl.java
-/Users/andrewmoyer/github/census-explorer/backend/src/main/java/com/censusexplorer/client/CensusApiResponse.java
-/Users/andrewmoyer/github/census-explorer/backend/src/main/java/com/censusexplorer/config/CensusWebClientConfig.java
-/Users/andrewmoyer/github/census-explorer/backend/src/main/java/com/censusexplorer/dto/PopulationDto.java
-/Users/andrewmoyer/github/census-explorer/backend/src/main/java/com/censusexplorer/service/PopulationService.java
