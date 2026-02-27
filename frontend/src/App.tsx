@@ -1,9 +1,8 @@
+import './App.css';
+import PopulationByStatePage from './pages/PopulationByStatePage';
+
 function App() {
-  return (
-    <div>
-      <h1>Census Explorer</h1>
-    </div>
-  )
+  return <PopulationByStatePage />;
 }
 
-export default App
+export default App;
